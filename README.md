@@ -1,3 +1,9 @@
+<div align="center">
+    <img src="https://i.pinimg.com/originals/71/82/19/71821982a6f90acbf8e137680abc3551.gif" alt="Banner">
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Maithreyi A</h1>
 <h3 align="center">A passionate Machine learning Developer from India. I am currently a student at VIT, Chennai studying B.Tech CSE with specialization in AI and ML. I am also exploring Web Development and started my journey in it.</h3>
 
