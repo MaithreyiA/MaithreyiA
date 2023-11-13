@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Maithreyi A</h1>
 <h3 align="center">A passionate Machine learning Developer from India. I am currently a student at VIT, Chennai studying B.Tech CSE with specialization in AI and ML. I am also exploring Web Development and started my journey in it.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/85/4f/c2/854fc25d7d6f56070d0fd05ff7a6e145.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/96/90/07/96900770a3e07a641c2945269efe9e14.jpg">
 
 💫 About Me:
 🔭 I’m currently working on TensorFlow<br>🌱 I’m currently learning Web Development, Tensorflow and Computer Vision<br>💬 Ask me about Deep Learning!<br>📫 Reach me through maithreyi.a1904@gmail.com <br>⚡ Fun fact I am good in Photography
