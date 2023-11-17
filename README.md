@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/96/90/07/96900770a3e07a641c2945269efe9e14.jpg">
 
 💫 About Me:
-🔭 I’m currently working on TensorFlow<br>🌱 I’m currently learning Web Development, Tensorflow and Computer Vision<br>💬 Ask me about Deep Learning!<br>📫 Reach me through maithreyi.a1904@gmail.com <br>⚡ Fun fact I am good in Photography
+🔭 I’m currently working on TensorFlow<br>🌱 I’m currently learning Web Development, Tensorflow and Computer Vision<br>💬 Ask me about Deep Learning!<br>📫 Reach me through maithreyi.a1904@gmail.com <br>⚡ Fun fact I am good in Photography and editing
 
 
 ## 🌐 Socials:
