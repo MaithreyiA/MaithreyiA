@@ -1,6 +1,5 @@
-<div align="center">
-    <img src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" alt="Banner">
-</div>
+![80ec77932091113c4970a88f69b9bb4f](https://github.com/MaithreyiA/MaithreyiA/assets/145844778/5af080ae-6b11-4989-9b86-3da30722d8b0)
+
 
 
 <h1 align="center">Hi 👋, I'm Maithreyi A</h1>
