@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Maithreyi A</h1>
-<h3 align="center">A passionate Machine learning Developer from India. I am currently a student at VIT, Chennai studying B.Tech CSE with specialization in AI and ML. I am also exploring Web Development and started my journey in it.</h3>
+<h3 align="center">A passionate Machine learning Developer and UI/UX Designer from India. I am currently a student at VIT, Chennai studying B.Tech CSE with specialization in AI and ML. I am also exploring Web Development and started my journey in it.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/96/90/07/96900770a3e07a641c2945269efe9e14.jpg">
 
