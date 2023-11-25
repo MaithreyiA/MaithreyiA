@@ -1,7 +1,6 @@
 ![80ec77932091113c4970a88f69b9bb4f](https://github.com/MaithreyiA/MaithreyiA/assets/145844778/5af080ae-6b11-4989-9b86-3da30722d8b0)
 
 
-
 <h1 align="center">Hi 👋, I'm Maithreyi A</h1>
 <h3 align="center">A passionate Machine learning Developer and UI/UX Designer from India. I am currently a student at VIT, Chennai studying B.Tech CSE with specialization in AI and ML. I am also exploring Web Development and started my journey in it.</h3>
 
